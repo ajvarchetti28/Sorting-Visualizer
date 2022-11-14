@@ -1,4 +1,4 @@
-<h1>Sorting Visualizer</h1>
+<h2>Sorting Visualizer</h2>
 <p>This sorting visualizer uses react and java script to let the user visualize 4 different sorting alogirthms</p>
 <p>The 4 sorting alogirthms are:</p>
 <ol>
